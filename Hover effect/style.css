@@ -66,8 +66,3 @@
     filter: brightness(0.4);
     transform: translateZ(70px) rotateY(-20deg);
 }
-
-/* .list .items:has(+*+*+*:hover) {
-    filter: brightness(0.4);
-    transform: translateZ(70px) rotateY(-20deg);
-} */
